@@ -12,10 +12,10 @@
 <body>
     <div id="naglowek">
         <div id="logo">
-        <img src="wzor.png" alt="wzór BMI">
+            <img src="wzor.png" alt="wzór BMI">
         </div>
         <div id="baner">
-        <h1>Oblicz swoje BMI</h1>
+            <h1>Oblicz swoje BMI</h1>
         </div>
     </div>
     <div id="glowny">
@@ -47,8 +47,8 @@
         <div id="lewy">
             <h2>Podaj wagę i wzrost</h2>
             <form action="bmi.php" method="post">
-                Waga:<input type="number" min="1" name="waga">
-                Wzrost w cm:<input type="number" min="1">
+                Waga:<input type="number" min="1" name="waga"><br>
+                Wzrost w cm:<input type="number" min="1"><br>
                 <button type="submit">Oblicz i zapamietaj wynik</button>
             </form>
         </div>
