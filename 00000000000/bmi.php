@@ -12,8 +12,10 @@
 <body>
     <div id="naglowek">
         <div id="logo">
+        <img src="wzor.png" alt="wzór BMI">
         </div>
         <div id="baner">
+        <h1>Oblicz swoje BMI</h1>
         </div>
     </div>
     <div id="glowny">
